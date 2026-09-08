@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 4307291,
       "digest": "sha256:ea0d82ba717c5aae8b6e982b975fe5a494e32325d7202995dd3acba89232635e",
-      "download_count": 368,
+      "download_count": 371,
       "created_at": "2026-03-13T22:07:44Z",
       "updated_at": "2026-03-13T22:07:45Z",
       "browser_download_url": "https://github.com/Bahaaio/pomo/releases/download/v1.2.1/pomo_Darwin_arm64.tar.gz"
