@@ -22,11 +22,26 @@ x install pomo
 - **Latest**: `v1.2.1` (2026-03-13)
 - **Last commit**: 2026-06-06
 - **Assets in release**: 11
-- **Published**: 2026-03-13T22:07:47Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [pomo_1.2.1_checksums.txt](https://github.com/Bahaaio/pomo/releases/download/v1.2.1/pomo_1.2.1_checksums.txt) | 915 B | `other` |
+| [pomo_1.2.1_linux_amd64.deb](https://github.com/Bahaaio/pomo/releases/download/v1.2.1/pomo_1.2.1_linux_amd64.deb) | 4.4 MiB | `native/linux/x64` |
+| [pomo_1.2.1_linux_amd64.rpm](https://github.com/Bahaaio/pomo/releases/download/v1.2.1/pomo_1.2.1_linux_amd64.rpm) | 4.5 MiB | `native/linux/x64` |
+| [pomo_1.2.1_linux_arm64.deb](https://github.com/Bahaaio/pomo/releases/download/v1.2.1/pomo_1.2.1_linux_arm64.deb) | 4.1 MiB | `native/linux/arm64` |
+| [pomo_1.2.1_linux_arm64.rpm](https://github.com/Bahaaio/pomo/releases/download/v1.2.1/pomo_1.2.1_linux_arm64.rpm) | 4.2 MiB | `native/linux/arm64` |
+| [pomo_Darwin_arm64.tar.gz](https://github.com/Bahaaio/pomo/releases/download/v1.2.1/pomo_Darwin_arm64.tar.gz) | 4.1 MiB | `native/darwin/arm64` |
+| [pomo_Darwin_x86_64.tar.gz](https://github.com/Bahaaio/pomo/releases/download/v1.2.1/pomo_Darwin_x86_64.tar.gz) | 4.3 MiB | `native/darwin/x64` |
+| [pomo_Linux_arm64.tar.gz](https://github.com/Bahaaio/pomo/releases/download/v1.2.1/pomo_Linux_arm64.tar.gz) | 4.1 MiB | `native/linux/arm64` |
+| [pomo_Linux_x86_64.tar.gz](https://github.com/Bahaaio/pomo/releases/download/v1.2.1/pomo_Linux_x86_64.tar.gz) | 4.4 MiB | `native/linux/x64` |
+| [pomo_Windows_arm64.zip](https://github.com/Bahaaio/pomo/releases/download/v1.2.1/pomo_Windows_arm64.zip) | 4.9 MiB | `native/win/arm64` |
+| [pomo_Windows_x86_64.zip](https://github.com/Bahaaio/pomo/releases/download/v1.2.1/pomo_Windows_x86_64.zip) | 5.4 MiB | `native/win/x64` |
 
 ## Popularity
 
-- **Stars**: 498 · **Forks**: 19 · **Open issues**: 20 · **Contributors**: 2
+- **Stars**: 498 · **Forks**: 20 · **Open issues**: 20 · **Contributors**: 2
 
 ## Totals (cumulative)
 
@@ -57,8 +72,8 @@ Total: **3,126** lines of code across **37** files in the top 5 languages.
 Install metadata for pomo lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `pomo` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/pomo.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/pomo.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T02:47:40Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T15:51:16Z._
