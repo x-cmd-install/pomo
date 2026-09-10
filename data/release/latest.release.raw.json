@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 4567657,
       "digest": "sha256:042aa28b7954e61240979f62aa40c42b47b3602b2e9eed8936401937fda5e16b",
-      "download_count": 238,
+      "download_count": 239,
       "created_at": "2026-03-13T22:07:44Z",
       "updated_at": "2026-03-13T22:07:45Z",
       "browser_download_url": "https://github.com/Bahaaio/pomo/releases/download/v1.2.1/pomo_Linux_x86_64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 5120809,
       "digest": "sha256:7572848a9dac54ef1d0acaad4a3939b5ee640551c96ee04e0dddedda754ca5f5",
-      "download_count": 291,
+      "download_count": 292,
       "created_at": "2026-03-13T22:07:45Z",
       "updated_at": "2026-03-13T22:07:46Z",
       "browser_download_url": "https://github.com/Bahaaio/pomo/releases/download/v1.2.1/pomo_Windows_arm64.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 5630000,
       "digest": "sha256:f1f310cefe8fcb6f93289b961eb16218b9833dfe9a8f7a71ec802b349700e43c",
-      "download_count": 574,
+      "download_count": 575,
       "created_at": "2026-03-13T22:07:45Z",
       "updated_at": "2026-03-13T22:07:46Z",
       "browser_download_url": "https://github.com/Bahaaio/pomo/releases/download/v1.2.1/pomo_Windows_x86_64.zip"
