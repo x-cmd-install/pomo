@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.2.1"
   latestRelease: "v1.2.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T02:41:03Z
+  collectedAt: 2026-09-11T20:54:23Z
 timeline:
   created: 2025-08-10
   lastCommit: 2026-06-06
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-03-13
   lastPrerelease: 
 popularity:
-  star: 498
+  star: 502
   watcher: 4
   fork: 20
   release: 24
@@ -84,7 +84,7 @@ total:
   commit: 160
 ---
 path: /home/runner/.x-repo/github.com/Bahaaio/pomo
-collectedAt: 2026-09-11T02:41:04Z
+collectedAt: 2026-09-11T20:54:24Z
 loc:
   Go:
     code: 2912
