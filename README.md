@@ -4,7 +4,7 @@
 
 Customizable TUI Pomodoro timer with ASCII art, progress bar, desktop notifications, and productivity statistics.
 
-![pomo](https://repo.x-cmd.io/pomo.svg)
+[![x-cmd/install — pomo Code Quality Monitoring Repo Card](https://repo.x-cmd.io/pomo.svg)](https://x-cmd.com/install/pomo)
 
 ## Install
 
@@ -47,12 +47,12 @@ Total: **3,126** lines of code across **37** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last180d | 2026-03-22 | 0 | 0 | 2 | 2 | 1 | 2 |
-| 360d | 2025-09-23 | 18 | 3 | 2 | 18 | 2 | 119 |
-| last720d | 2024-09-28 | 24 | 3 | 2 | 18 | 2 | 160 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last180d | 2026-03-24 | 0 | 0 | 2 | 2 | 1 | 2 |
+| 360d | 2025-09-25 | 18 | 3 | 2 | 18 | 2 | 119 |
+| last720d | 2024-09-30 | 24 | 3 | 2 | 18 | 2 | 160 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for pomo lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T02:53:38Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T03:03:45Z._
