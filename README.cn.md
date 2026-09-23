@@ -4,7 +4,7 @@
 
 Customizable TUI Pomodoro timer with ASCII art, progress bar, desktop notifications, and productivity statistics.
 
-[![x-cmd/install — pomo Code Quality Monitoring Repo Card](https://repo.x-cmd.io/pomo.svg?lang=zh)](https://x-cmd.com/install/pomo)
+[![x-cmd/install — pomo Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/pomo.svg?lang=zh)](https://x-cmd.com/install/pomo)
 
 ## 安装
 
@@ -37,7 +37,7 @@ x install pomo
 
 ## 流行度
 
-- **Star**: 513 · **Fork**: 23 · **开放 issue**: 20 · **贡献者**: 2
+- **Star**: 514 · **Fork**: 23 · **开放 issue**: 20 · **贡献者**: 2
 
 ## 累计统计
 
@@ -47,12 +47,12 @@ x install pomo
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last180d | 2026-03-26 | 0 | 0 | 2 | 2 | 1 | 2 |
-| 360d | 2025-09-27 | 18 | 3 | 2 | 18 | 2 | 119 |
-| last720d | 2024-10-02 | 24 | 3 | 2 | 18 | 2 | 160 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last180d | 2026-03-27 | 0 | 0 | 2 | 2 | 1 | 2 |
+| 360d | 2025-09-28 | 18 | 3 | 2 | 18 | 2 | 119 |
+| last720d | 2024-10-03 | 24 | 3 | 2 | 18 | 2 | 160 |
 
 ## Release 资产
 
@@ -79,4 +79,4 @@ pomo 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T03:00:23Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T03:00:22Z._
