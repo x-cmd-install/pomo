@@ -37,22 +37,22 @@ Total: **3,126** lines of code across **37** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 521 · **Forks**: 26 · **Open issues**: 20 · **Contributors**: 2
+- **Stars**: 520 · **Forks**: 26 · **Open issues**: 20 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 3 · **Open PRs**: 2 · **Closed issues**: 18 · **Open issues**: 2 · **Commits**: 160
+- **Releases**: 24 · **Merged PRs**: 3 · **Open PRs**: 0 · **Closed issues**: 18 · **Open issues**: 2 · **Commits**: 160
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-05 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-07-06 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last180d | 2026-04-07 | 0 | 0 | 2 | 2 | 1 | 2 |
-| 360d | 2025-10-09 | 18 | 3 | 2 | 18 | 2 | 119 |
-| last720d | 2024-10-14 | 24 | 3 | 2 | 18 | 2 | 160 |
+| 30d | 2026-09-05 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-06 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-07-07 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last180d | 2026-04-08 | 0 | 0 | 0 | 2 | 1 | 2 |
+| 360d | 2025-10-10 | 18 | 3 | 0 | 18 | 2 | 119 |
+| last720d | 2024-10-15 | 24 | 3 | 0 | 18 | 2 | 160 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for pomo lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261004.yml` · 2026-10-04T03:58:51Z._
+_Snapshot: `data/card/261005.yml` · 2026-10-05T03:44:00Z._
