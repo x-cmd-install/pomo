@@ -37,7 +37,7 @@ Total: **3,126** lines of code across **37** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 530 · **Forks**: 28 · **Open issues**: 20 · **Contributors**: 2
+- **Stars**: 531 · **Forks**: 28 · **Open issues**: 20 · **Contributors**: 2
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **3,126** lines of code across **37** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-30 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-07-31 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last180d | 2026-05-02 | 0 | 0 | 0 | 1 | 1 | 2 |
-| 360d | 2025-11-03 | 18 | 3 | 0 | 18 | 2 | 119 |
-| last720d | 2024-11-08 | 24 | 3 | 0 | 18 | 2 | 160 |
+| 30d | 2026-09-30 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-31 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-08-01 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last180d | 2026-05-03 | 0 | 0 | 0 | 1 | 1 | 2 |
+| 360d | 2025-11-04 | 18 | 3 | 0 | 18 | 2 | 119 |
+| last720d | 2024-11-09 | 24 | 3 | 0 | 18 | 2 | 160 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for pomo lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T04:04:04Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T04:05:14Z._
