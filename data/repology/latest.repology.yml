@@ -4,7 +4,7 @@
   binname: pomo
   visiblename: pomo
   version: 0.8.1
-  origversion: 0.8.1-r34
+  origversion: 0.8.1-r35
   status: outdated
   summary: Pomodoro CLI
   maintainers:
@@ -17,7 +17,7 @@
   binname: pomo-doc
   visiblename: pomo-doc
   version: 0.8.1
-  origversion: 0.8.1-r34
+  origversion: 0.8.1-r35
   status: outdated
   summary: Pomodoro CLI (documentation)
   maintainers:
